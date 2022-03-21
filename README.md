@@ -101,7 +101,7 @@
   
   </br>
   
-<h4 align="center">Entre em contato com a gente caso tenha alguma sugestão ou feedback</h4>
-<a href = "mailto:projectfonte@gmail.com"><img height="25" width="auto" src="https://img.shields.io/badge/-Gmail-3797a4?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<h4 align="center">Entre em contato com a gente caso tenha alguma sugestão ou feedback.</h4>
+<a href = "mailto:projectfonte@gmail.com"><img width="10%" src="https://img.shields.io/badge/-Gmail-3797a4?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
 </div>
