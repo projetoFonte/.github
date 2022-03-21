@@ -15,7 +15,7 @@
 
 </br>
 
-<h2 align="center">💧 Conheça os colaboradores</h2>
+<h2 align="center">⛲ Conheça os colaboradores!</h2>
 
 <div align="center">
 <table>
@@ -25,29 +25,29 @@
       <a href="https://github.com/Williamrsh">
         <img src="https://github.com/Williamrsh.png" width="100px;" alt="Foto do William"/><br/>
           <sub>
-            <b>Williamrsh</b>
+            <b>💧 Williamrsh</b>
           </sub>
        </a><br/>
   
   <td align="center"><a href="https://github.com/ggabrielmaia"><img  
   src="https://github.com/ggabrielmaia.png" 
-  width="100px;" alt=""/><br /><sub><b>ggabrielmaia</b></sub></a><br />
+  width="100px;" alt=""/><br /><sub><b>💧 ggabrielmaia</b></sub></a><br />
     
   <td align="center"><a href="https://github.com/karengabiviana"><img  
   src="https://github.com/karengabiviana.png" 
-  width="100px;" alt=""/><br /><sub><b>karengabiviana</b></sub></a><br />
+  width="100px;" alt=""/><br /><sub><b>💧 karengabiviana</b></sub></a><br />
   
   <td align="center"><a href="https://github.com/levmn/"><img  
   src="https://github.com/levmn.png" 
-  width="100px;" alt=""/><br /><sub><b>levmn</b></sub></a><br />
+  width="100px;" alt=""/><br /><sub><b>💧 levmn</b></sub></a><br />
   
   <td align="center"><a href="https://github.com/LucasBraga03"><img  
   src="https://github.com/LucasBraga03.png" 
-  width="100px;" alt=""/><br /><sub><b>LucasBraga03</b></sub></a><br />
+  width="100px;" alt=""/><br /><sub><b>💧 LucasBraga03</b></sub></a><br />
   
   <td align="center"><a href="https://github.com/naaduque"><img  
   src="https://github.com/naaduque.png" 
-  width="100px;" alt=""/><br /><sub><b>naaduque</b></sub></a><br />
+  width="100px;" alt=""/><br /><sub><b>💧 naaduque</b></sub></a><br />
   </tr>
   
 </table>
