@@ -1,5 +1,7 @@
 <h2 align="center">Olá, esse é o Projeto Fonte!</h2>
 
+</br>
+
 <div align="center">
   <p>Somos uma plataforma informativa que gera visibilidade e engajamento social para apoiar o <a href="https://brasil.un.org/pt-br/sdgs/6"><b>Objetivo de Desenvolvimento Sustentável 6</b></a> da ONU, água potável e saneamento básico. Temos como objetivo ser a fonte de incentivo para que corporações se comprometam com a construção de um mundo melhor para todes.</p>
   <p>Visando os princípios universais do <a href="https://www.pactoglobal.org.br"><b>Pacto Global</b></a>, nosso objetivo é captar organizações interessadas em impactar gerações futuras e fazer a diferença, criando alertas para aumentar a visibilidade para essa questão. A água é nossa fonte e ela não pode cessar.</p>
